@@ -4,6 +4,11 @@
 Roadmap
 #######
 
+La liste de tâches décrite dans cette page n'est pas à jour. Toutes les tâches,
+bugs, versions prévues sont maintenant sur github:
+
+    https://github.com/croogo/croogo/milestones
+
 2.0.x
 -----
 

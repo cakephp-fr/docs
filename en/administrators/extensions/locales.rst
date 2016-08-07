@@ -11,7 +11,7 @@ If you have your locale in a zip file, follow these instructions:
 - Notice the Upload link on top. It will take you to a new page where you can upload the zip file.
 
 Manual upload
-==============
+=============
 
 If the locale is Bengali, place your locale under /app/Locale/ben
 
@@ -22,4 +22,3 @@ After uploading your locale, you need to activate it.
 
 - From your admin panel, go to Extensions > Locales page
 - Clicking on Activate link will activate your locale
- 

@@ -1,9 +1,7 @@
 Démo
 ####
 
-OpenSourceCMS a une démo hébérgée de Croogo v1.3.3.
+Demo de Croogo 2.x
 
-- `Frontend <http://www.opensourcecms.com/demo/2/283/Croogo>`_
-- `Panneau admin <http://www.opensourcecms.com/demo/2/283/Croogo>`_
-  - Username: admin
-  - Password: demo123
+- `Frontend <http://demo.croogo.org/2.0/>`_
+- `Admin panel <http://demo.croogo.org/2.0/admin>`_

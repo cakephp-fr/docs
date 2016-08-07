@@ -4,8 +4,8 @@ Taxonomy
 Vous êtes libre de catégoriser votre contenu de toutes les façons que vous
 souhaitez.
 
-Vocabularies
-============
+Vocabulaire
+===========
 
 Vocabularies (Vocabulaires) sont des collections de termes. Par exemple, vous
 avez une liste de catégories (incluant Personal, Travel, News, etc) et vous

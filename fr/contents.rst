@@ -11,6 +11,8 @@ Contenus
    designers
    developers
    translators
+   extensions
+   appendices
 
 .. todolist::
 

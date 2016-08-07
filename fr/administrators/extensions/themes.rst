@@ -12,7 +12,7 @@ Si vous avez votre theme dans un fichier zip, suivez ces instructions:
   page où vous pouvez uploader le fichier zip.
 
 Manuel d'upload
-===============
+---------------
 
 Placez votre theme dans /app/View/Themed/YourThemeName
 
